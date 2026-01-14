@@ -1,4 +1,6 @@
-# 1. 🖥️ Panel de Control del Sistema (Estado Actual)
+# Mis Acuarios
+
+## 1. 🖥️ Panel de Control del Sistema (Estado Actual)
 
 **Última actualización:** 14 de Enero, 2026
 
@@ -9,7 +11,7 @@
 | **A3**        | 👶 **Guardería**   | <ul><li>**~20 Alevines Platy**</li><li>2 Platys Abeja (Adultos)</li><li>Pareja Guppy (Adultos)</li><li>2 Juv. Guppy</li></ul> | **Convivencia Natural.** <ul><li>Alimentación mixta (Polvo/Escamas).</li><li>**Objetivo:** Depredación controlada (supervivencia del más apto).</li><li>Integración temprana de alevines con adultos.</li></ul>           |
 | **A4**        | ⏸️ **Almacenado**  | • N/A                                                                                                                         | Inactivo / Reserva de emergencia.                                                                                                                                                                                         |
 
-# 2. 🎯 Objetivos Activos y Pendientes
+## 2. 🎯 Objetivos Activos y Pendientes
 
 ### ⚡ Prioridad Alta (Foco Biológico)
 
@@ -29,7 +31,7 @@
 - [ ] (Eventual) Reposición de material filtrante biológico (si se cambia el filtro A1).
 - [ ] (Opcional) Plantas de tallo/flotantes extra (si se requiere refugio en A1).
 
-# 3. 🌿🐟 A1: Comunitario Principal (Laetacara)
+## 3. 🌿🐟 A1: Comunitario Principal (Laetacara)
 
 **Perfil:** Acuario Comunitario Plantado (Low-Mid Tech)
 
@@ -75,7 +77,7 @@
 
 - **Rutina:** Cambios parciales, limpieza mecánica de filtro y monitoreo de rotor.
 
-# 4. 🔬💧 A2: Unidad de Soporte y Engorde
+## 4. 🔬💧 A2: Unidad de Soporte y Engorde
 
 **Perfil:** Acuario de Transición / Engorde
 **Estado Actual:** Activo - Fase de Crecimiento
@@ -108,7 +110,7 @@
   - Cambios de agua regulares (dilución de hormonas de crecimiento y nitratos).
   - Sifonado de restos de comida (Bioseguridad).
 
-# 5. 🦐🌿 A3: Guardería y Vivero
+## 5. 🦐🌿 A3: Guardería y Vivero
 
 **Perfil:** Acuario de Cría y Crecimiento (Nursery)
 **Estado Actual:** 🔒 **CERRADO** (Solo habitantes internos. No ingresan peces nuevos).
@@ -150,7 +152,7 @@
   - Cambios de agua pequeños y frecuentes (10-15% cada 3-4 días).
   - **Sifonado Quirúrgico:** Uso de manguera de aireador para no aspirar crías.
 
-# 6. 📒 Bitácora General (Diario de Campo)
+## 6. 📒 Bitácora General (Diario de Campo)
 
 **Filosofía:** Registro cronológico de eventos significativos.
 **¿Qué anotar?** Altas/Bajas, Mediciones de Parámetros, Cambios de Equipamiento, Medicaciones, Partos y Maniobras de Mantenimiento Mayor.
