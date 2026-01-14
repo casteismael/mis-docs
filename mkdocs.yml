@@ -1,0 +1,30 @@
+site_name: Mis Documentos
+site_url: https://casteismael.github.io/mis-docs/
+repo_url: https://github.com/casteismael/mis-docs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: es
+  palette: 
+    - scheme: default
+      primary: teal
+      accent: purple
+      toggle:
+        icon: material/brightness-7 
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+nav:
+  - Inicio: index.md
+  - Proyectos: proyectos.md
