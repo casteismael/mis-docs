@@ -1,0 +1,23 @@
+name: Formatear Código con Prettier
+on:
+  push:
+    branches: [main]
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+
+      - name: Prettify code
+        uses: creyD/prettier_action@v4.3
+        with:
+          prettier_options: --write **/*.{md,yml,yaml,json}
+          commit_message: "style: auto-format con Prettier 🎨"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

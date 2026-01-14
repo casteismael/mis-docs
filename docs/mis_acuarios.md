@@ -31,56 +31,6 @@
 * [ ] (Eventual) Reposición de material filtrante biológico (si se cambia el filtro A1).
 * [ ] (Opcional) Plantas de tallo/flotantes extra (si se requiere refugio en A1).
 
-¡Manos a la obra con la **Ficha de A1**.
-
-Siguiendo tus directrices, he destilado la información para que esta ficha funcione como una "hoja técnica". Conservamos los datos estructurales (que definen la química y biología del tanque) y actualizamos el censo al día de hoy.
-
-Aquí tienes la propuesta:
-
----
-
-# 3. 🌿🐟 A1: Comunitario Principal (Laetacara)
-
-**Perfil:** Acuario Comunitario Plantado (Low-Mid Tech)
-**Dimensiones/Volumen:** 110 Litros
-
-### ⚙️ Hardware y Hardscape (Factores Físicos)
-
-* **Filtración:** Filtro Mochila (1200 l/h). *Nota: Monitorear rotor.*
-* **Iluminación:** [Tipo de luz/Horas, ej. LED 8hs].
-* **Sustrato:** [Tipo de sustrato, ej. Inerte/Nutritivo] *(Dato vital para el pH)*.
-* **Hardscape:**
-* Rocas Dragón (Dragon Stone).
-* Tronco/Raíz principal (Aporte de taninos).
-
-
-* **Tapas:** Instaladas (Enero 2026) - Control de evaporación y saltos.
-
-### 🌿 Flora Actual
-
-* **Flotantes:** Lenteja de agua (*Lemna minor*), *Limnobium* (proyectado/en proceso).
-* **Fondo/Estructura:** [Especies que tengas, ej. Vallisneria, Echinodorus].
-* **Musgos:** Musgo de Java (zonas bajas).
-
-### 🐟 Fauna (Censo Actualizado)
-
-| Especie | Cant. | Notas de Comportamiento |
-| --- | --- | --- |
-| **Cíclido Laetacara** | 2 (Pareja) | **Dominantes.** Comportamiento territorial (centro/fondo). |
-| **Vivíparos** (Platy/Guppy) | Variados | Población adulta estable. Renovación natural controlada por depredación. |
-| **Otocinclus Affinis** | 2 | **Supervivientes.** Activos, comiendo biofilm. Monitorear abdomen. |
-| **Corydoras** | [Cant.] | Zona fondo. Comportamiento normal (suben a superficie ocasionalmente). |
-| **Barbos Cereza** | *[En A2]* | *En espera de ingreso tras cuarentena (Función: Dither).* |
-| **Invertebrados** | Variados | Caracoles *Neritina* (Limpieza) y *Melanoides* (Trompeta - Control de población). |
-
-### 🧪 Parámetros y Rutina
-
-* **Última Medición:** pH 7.1 - 7.2 (Estable).
-* **Cambios de Agua:** Semanal / Quincenal (según nitratos).
-* **Alimentación:** Escamas/Gránulos + Tubifex liofilizado (adherido al vidrio) + Vegetales (para Otos/Caracoles).
-* **Abonado:** Sales NPK + Micros (Según protocolo simplificado).
-
-
 # 3. 🌿🐟 A1: Comunitario Principal (Laetacara)
 
 **Perfil:** Acuario Comunitario Plantado (Low-Mid Tech)
