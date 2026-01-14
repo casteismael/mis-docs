@@ -34,8 +34,11 @@ markdown_extensions:
   - admonition
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 
 nav:
   - Inicio: index.md
   - Proyectos: proyectos.md
   - Acuarios: mis_acuarios.md
+  - Prompts IA: prompts.md
