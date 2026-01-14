@@ -10,6 +10,10 @@ theme:
     - navigation.tabs
     - navigation.top
     - content.code.copy
+    - navigation.instant
+    - navigation.indexes
+    - toc.integrate
+    - navigation.sections
   palette:
     - scheme: default
       primary: teal
@@ -29,6 +33,8 @@ plugins:
   - git-revision-date-localized:
       type: date
       locale: es
+  - minify:
+      minify_html: true
 
 markdown_extensions:
   - admonition
@@ -36,9 +42,3 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-
-nav:
-  - Inicio: index.md
-  - Proyectos: proyectos.md
-  - Acuarios: mis_acuarios.md
-  - Prompts IA: prompts.md
