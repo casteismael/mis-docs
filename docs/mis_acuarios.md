@@ -1,21 +1,21 @@
 # 1. 🖥️ Panel de Control del Sistema (Estado Actual)
 
-**Última actualización:** 10 de Enero, 2026
+**Última actualización:** 14 de Enero, 2026
 
-| Acuario       | Rol Actual         | Población Clave                                                                                                                   | Estado / Foco Actual                                                                                                                                                                       |
-| ------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **A1** (110L) | ✅ **Comunitario** | <ul><li>Pareja _Laetacara_</li><li>2 _Otocinclus_ (Supervivientes)</li><li>Vivíparos Adultos</li><li>Caracoles _varios_</li></ul> | **Estabilidad y Convivencia.** <ul><li>pH estable (7.1-7.2).</li><li>Monitorear agresión de cíclidos.</li><li>_Pendiente:_ Ingreso de cardumen (Barbos).</li></ul>                         |
-| **A2**        | 🟡 **Cuarentena**  | • 6 Barbos Cereza (_P. Titeya_)                                                                                                   | **Observación Final.** <ul><li>pH estable (7.1-7.2).</li><li>Comen bien y activos.</li><li>Próximo paso: Traslado a A1 (Cardumen Dither).</li></ul>                                        |
-| **A3**        | 👶 **Guardería**   | <ul><li>**~20 Alevines Platy** (Recién nacidos)</li><li>Juv. Guppy/Platy</li><li>1 Guppy Hembra (Adulta)</li></ul>                | **Crecimiento Intensivo.** <ul><li>Alimentación frecuente (_Sera Micron_).</li><li>Protección contra depredación (Guppy).</li><li>_Prohibido:_ Ingreso de peces nuevos/enfermos.</li></ul> |
-| **A4**        | ⏸️ **Almacenado**  | • N/A                                                                                                                             | Inactivo / Reserva de emergencia.                                                                                                                                                          |
+| Acuario       | Rol Actual         | Población Clave                                                                                                                                                             | Estado / Foco Actual                                                                                                                                                                                                       |
+| ------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **A1** (110L) | ✅ **Comunitario** | <ul><li>Pareja _Laetacara_</li><li>2 _Otocinclus_</li><li>Vivíparos Adultos</li><li>Caracoles _varios_</li></ul>                                                            | **Upgrade de Infraestructura.** <ul><li>**Nuevo Filtro:** RS-4000 (1600 L/h).</li><li>**Foco:** Monitoreo de corriente y estabilidad bacteriana post-cambio.</li><li>_Pendiente:_ Ingreso de cardumen (Barbos).</li></ul>  |
+| **A2** | 🟡 **Cuarentena** | • 6 Barbos Cereza (_P. Titeya_)                                                                                                                                             | **Engorde.** <ul><li>pH estable.</li><li>Crecimiento activo.</li><li>Próximo paso: Traslado a A1.</li></ul>                                                                                                                |
+| **A3** | 👶 **Guardería** | <ul><li>**~20 Alevines Platy**</li><li>2 Platys Abeja (Adultos)</li><li>Pareja Guppy (Adultos)</li><li>2 Juv. Guppy</li></ul>                                               | **Convivencia Natural.** <ul><li>Alimentación mixta (Polvo/Escamas).</li><li>**Objetivo:** Depredación controlada (supervivencia del más apto).</li><li>Integración temprana de alevines con adultos.</li></ul>            |
+| **A4** | ⏸️ **Almacenado** | • N/A                                                                                                                                                                       | Inactivo / Reserva de emergencia.                                                                                                                                                                                          |
 
 # 2. 🎯 Objetivos Activos y Pendientes
 
 ### ⚡ Prioridad Alta (Foco Biológico)
 
-- [ ] **A3 (Guardería):** Mantener rutina de alimentación intensiva (Escamas trituradas + Sera Micron como suplemento) y sifonado delicado. Objetivo: Supervivencia > 50% de la camada.
-- [ ] **A2 ➡️ A1 (Traslado):** Finalizar cuarentena de los **Barbos Cereza** (si siguen sanos tras 15 días) e introducirlos a A1 para actuar como _dither fish_.
-- [ ] **A1 (Otos):** Asegurar alimentación vegetal (Calabacín/Pepino/Pastillas) para los 2 Otocinclus supervivientes y monitorear que recuperen peso.
+- [ ] **A1 (Filtración):** Monitorear flujo del nuevo **RS-4000**. Asegurar que los *Laetacara* no sufran exceso de corriente.
+- [ ] **A3 (Integración):** Mantener alimentación dispersa para minimizar competencia entre adultos (Platys Abeja/Guppys) y alevines.
+- [ ] **A2 ➡️ A1 (Traslado):** Evaluar robustez de Barbos Cereza para futuro traslado.
 
 ### 🛠️ Mantenimiento e Infraestructura
 
@@ -37,12 +37,10 @@
 
 ### ⚙️ Hardware y Hardscape (Factores Físicos)
 
-- **Filtración:** RS-Electrical RS-3000 (1200 L/h).
-- **Iluminación:** Pantalla Hygger HG999-36W (Programable).
-
+- **Filtración:** **RS-Electrical RS-4000 (1600 L/h)** - *Instalado 14/Ene/26*.
+- **Iluminación:** Pantalla Hygger HG999-36W.
 - **Termostato:** 100W.
-
-- **Sustrato:** Combinación de Arena de Río y Arena Fina.
+- **Sustrato:** Arena de Río y Arena Fina sobre sustrato nutritivo.
 
 - **Hardscape Activo:**
   - Tronco Principal (Estructura central y taninos).
@@ -61,17 +59,15 @@
 
 - **Tapizantes/Bajas:** _Micranthemum micranthemoides_ (Pearlweed), _Marsilea crenata_.
 
-### 🐟 Fauna (Censo Confirmado - Enero 2026)
+### 🐟 Fauna (Censo Confirmado)
 
 | Especie                                     | Cant. | Sexo/Detalle        | Rol en el Ecosistema                          |
 | ------------------------------------------- | ----- | ------------------- | --------------------------------------------- |
-| **Cíclido Bandera** (_Laetacara curviceps_) | 2     | 1 Macho, 1 Hembra   | **Pareja Dominante.** Centro del acuario.     |
-| **Platys** (_Xiphophorus maculatus_)        | 9     | 5 Machos, 4 Hembras | Población activa zona media/alta.             |
-| **Corydora Pimienta** (_C. paleatus_)       | **6** | Indet.              | **Cardumen Completo.** Limpieza de fondo.     |
-| **Otocinclus** (_O. vittatus_)              | 2     | Indet.              | Control de algas (Supervivientes).            |
-| **Invertebrados**                           | 3+    | Variados            | <br>_Physa_, _Planorbis_, _Melanoides_ (MTS). |
-| _Pendiente de Ingreso_                      | _~6_  | _Barbos Cereza_     | _Actualmente en cuarentena A2._               |
-
+| **Cíclido Bandera** (_Laetacara curviceps_) | 2     | 1 Macho, 1 Hembra   | **Pareja Dominante.** |
+| **Platys** (_Xiphophorus maculatus_)        | 9     | 5 Machos, 4 Hembras | Población activa.                             |
+| **Corydora Pimienta** (_C. paleatus_)       | 6     | Indet.              | Limpieza de fondo.                            |
+| **Otocinclus** (_O. vittatus_)              | 2     | Indet.              | Control de algas.                             |
+| **Invertebrados** | 3+    | Variados            | _Physa_, _Planorbis_, _Melanoides_.           |
 ### 🧪 Parámetros
 
 - **pH Actual:** **7.1** (Estable al 08/Ene/2026).
@@ -136,18 +132,18 @@
 
 ### 🐟 Fauna (Censo Guardería - Enero 2026)
 
-| Especie              | Cant.      | Rol / Notas                                                  |
-| -------------------- | ---------- | ------------------------------------------------------------ |
-| **Alevines Platy**   | **~20**    | **PRIORIDAD.** Recién nacidos. Activos y comiendo.           |
-| **Guppy Hembra**     | 1          | Adulta. _Alerta:_ Posible depredadora (mantener alimentada). |
-| **Juv. Guppy/Platy** | Variados   | Compañeros de crecimiento. Sin riesgo para alevines.         |
-| _Invertebrados_      | [Variados] | Caracoles (Limpieza de restos de _Sera Micron_).             |
+| Especie                                 | Cant.      | Rol / Estado                                                      |
+| --------------------------------------- | ---------- | ----------------------------------------------------------------- |
+| **Alevines Platy** | **~20** | **Creciendo.** Nadan libremente e interactúan con adultos.        |
+| **Platy "Abeja"** | 2          | **Adultos.** Convivencia pacífica observada.                      |
+| **Guppy** (_Poecilia reticulata_)       | 2          | **Adultos** (1 Macho, 1 Hembra).                                  |
+| **Guppy** | 2          | **Juveniles.** |
+| _Invertebrados_                         | [Variados] | Caracoles de limpieza.                                            |
 
 ### 🧪 Rutina de Guardería
 
-- **Alimentación Intensiva:** 3-4 veces al día.
-  - _Menú:_ **Sera Micron** (polvo) + Escamas trituradas.
-  - _Táctica:_ Alimentar primero a la hembra adulta en extremo opuesto.
+- **Alimentación:** Mixta. Escamas para adultos + Nube de polvo/triturado para alevines simultáneamente.
+- **Observación:** Los alevines ya no requieren aislamiento estricto; usan las plantas como refugio dinámico.
 
 - **Mantenimiento:**
   - Cambios de agua pequeños y frecuentes (10-15% cada 3-4 días).
@@ -164,6 +160,8 @@ _Eventos del ciclo actual. Foco: Recuperación tras fallo de filtro y Boom de na
 
 | Fecha         | Acuario  | Evento / Observación / Acción                                                                                                       |
 | ------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **14/Ene/26** | **A1** | **🛠️ Upgrade de Hardware:** Instalación del filtro mochila **RS-4000 (1600 L/h)**. Se trasvasa material biológico viejo al nuevo. Caudal regulado.                                                      |
+| **14/Ene/26** | **A3** | **Observación de Conducta:** Alevines nadando en aguas abiertas junto a adultos (Platys Abeja, Guppys). Convivencia pacífica. Se ajusta estrategia a "Selección Natural".                              |
 | **14/Ene/26** | **A3**   | **Actualización Censo:** Se confirman **~20 alevines**. Transición exitosa a alimentación con escamas trituradas.                   |
 | **13/Ene/26** | **A1**   | **Compra de Equipo:** Se encarga filtro mochila **RS-4000 (1600 l/h)** para reemplazar el RS-3000 defectuoso.                       |
 | **12/Ene/26** | **A3**   | **¡Nacimientos!** Se confirman +12 alevines de Platy nadando libres. Se establece rutina de alimentación intensiva (_Sera Micron_). |
