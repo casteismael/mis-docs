@@ -13,7 +13,6 @@ theme:
     - navigation.instant
     - navigation.indexes
     - toc.integrate
-    - navigation.sections
   palette:
     - scheme: default
       primary: teal
