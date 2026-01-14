@@ -4,12 +4,12 @@
 
 **Última actualización:** 14 de Enero, 2026
 
-| Acuario | Rol Actual | Población Clave | Estado / Foco Actual |
-| :--- | :--- | :--- | :--- |
-| [**A1** (110L)](a1.md) | ✅ **Comunitario** | <ul><li>Pareja _Laetacara_</li><li>2 _Otocinclus_</li><li>Vivíparos Adultos</li><li>Caracoles _varios_</li></ul> | **Upgrade de Infraestructura.** <ul><li>**Nuevo Filtro:** RS-4000 (1600 L/h).</li><li>**Foco:** Monitoreo de corriente y estabilidad bacteriana post-cambio.</li><li>_Pendiente:_ Ingreso de cardumen (Barbos).</li></ul> |
-| [**A2**](a2.md) | 🟡 **Cuarentena** | • 6 Barbos Cereza (_P. Titeya_) | **Engorde.** <ul><li>pH estable.</li><li>Crecimiento activo.</li><li>Próximo paso: Traslado a A1.</li></ul> |
-| [**A3**](a3.md) | 👶 **Guardería** | <ul><li>**~20 Alevines Platy**</li><li>2 Platys Abeja (Adultos)</li><li>Pareja Guppy (Adultos)</li><li>2 Juv. Guppy</li></ul> | **Convivencia Natural.** <ul><li>Alimentación mixta (Polvo/Escamas).</li><li>**Objetivo:** Depredación controlada (supervivencia del más apto).</li><li>Integración temprana de alevines con adultos.</li></ul> |
-| **A4** | ⏸️ **Almacenado** | • N/A | Inactivo / Reserva de emergencia. |
+| Acuario                | Rol Actual         | Población Clave                                                                                                               | Estado / Foco Actual                                                                                                                                                                                                      |
+| :--------------------- | :----------------- | :---------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [**A1** (110L)](a1.md) | ✅ **Comunitario** | <ul><li>Pareja _Laetacara_</li><li>2 _Otocinclus_</li><li>Vivíparos Adultos</li><li>Caracoles _varios_</li></ul>              | **Upgrade de Infraestructura.** <ul><li>**Nuevo Filtro:** RS-4000 (1600 L/h).</li><li>**Foco:** Monitoreo de corriente y estabilidad bacteriana post-cambio.</li><li>_Pendiente:_ Ingreso de cardumen (Barbos).</li></ul> |
+| [**A2**](a2.md)        | 🟡 **Cuarentena**  | • 6 Barbos Cereza (_P. Titeya_)                                                                                               | **Engorde.** <ul><li>pH estable.</li><li>Crecimiento activo.</li><li>Próximo paso: Traslado a A1.</li></ul>                                                                                                               |
+| [**A3**](a3.md)        | 👶 **Guardería**   | <ul><li>**~20 Alevines Platy**</li><li>2 Platys Abeja (Adultos)</li><li>Pareja Guppy (Adultos)</li><li>2 Juv. Guppy</li></ul> | **Convivencia Natural.** <ul><li>Alimentación mixta (Polvo/Escamas).</li><li>**Objetivo:** Depredación controlada (supervivencia del más apto).</li><li>Integración temprana de alevines con adultos.</li></ul>           |
+| **A4**                 | ⏸️ **Almacenado**  | • N/A                                                                                                                         | Inactivo / Reserva de emergencia.                                                                                                                                                                                         |
 
 ## 2. 🎯 Objetivos Activos y Pendientes
 
