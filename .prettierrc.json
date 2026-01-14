@@ -2,13 +2,5 @@
   "semi": false,
   "singleQuote": true,
   "arrowParens": "avoid",
-  "trailingComma": "es5",
-  "overrides": [
-    {
-      "files": "*.md",
-      "options": {
-        "parser": "markdown"
-      }
-    }
-  ]
+  "trailingComma": "es5"
 }
